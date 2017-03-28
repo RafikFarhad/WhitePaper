@@ -6,18 +6,21 @@ comments: true
 categories:
 ---
 
-<a href="#geometry"> <h3> Geometry </h3> </a> <br>
+<h3> <a href="#geometry"> Geometry  </a> <br> </h3>
 
-<a href="#fraction"> <h2> Fraction Class </h2> </a> <br>
-<a href="#basic"> <h2> Basic Geometry </h2> </a> <br>
+<h2> <a href="#fraction">        Fraction Class  </a> <br> <h2>
+<h2> <a href="#basic">        Basic Geometry  </a> <br> </h2>
 
-<a href="#graph"> <h3> Graph </h3> </a> <br>
+<h3>  <a href="#graph"> Graph  </a> <br> </h3>
 
 <a name="geometry">
   <div id="geometry">
 
 <h1>  Geometry </h1>
 
+
+  </div>
+</a>
 <!-- ## <script src="https://gist.github.com/RafikFarhad/16d420129d107663d6dc2c720b6aacbd.js"></script> -->
 
 {% highlight c++ %}
@@ -460,15 +463,16 @@ template <class T = double> struct Point {
 
 {% endhighlight %}
 
-  </div>
-</a>
 
 
 <a name="graph">
   <div id="graph">
+  <h1>  Graph </h1>
+  </div>
+</a>
 
 
-<h1>  Graph </h1>
+
 
 
 {% highlight c++ %}
@@ -1409,6 +1413,3 @@ template <class T> struct PushRelabel {
 };
 
 {% endhighlight %}
-
-  </div>
-</a>
