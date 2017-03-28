@@ -8,15 +8,15 @@ categories:
 
 <h3> <a href="#geometry"> Geometry  </a> <br> </h3>
 
-<h2> <a href="#fraction">        Fraction Class  </a> <br> <h2>
-<h2> <a href="#basic">        Basic Geometry  </a> <br> </h2>
+<h4> <a href="#fraction">        Fraction Class  </a> <br> <h4>
+<h4> <a href="#basic">        Basic Geometry  </a> <br> </h4>
 
 <h3>  <a href="#graph"> Graph  </a> <br> </h3>
 
 <a name="geometry">
   <div id="geometry">
 
-<h1>  Geometry </h1>
+<h2>  Geometry </h2>
 
 
   </div>
