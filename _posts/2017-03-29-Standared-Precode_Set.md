@@ -20,13 +20,14 @@ categories:
 <h2>  Geometry </h2>
   </div>
 </a>
-<!-- ## <script src="https://gist.github.com/RafikFarhad/16d420129d107663d6dc2c720b6aacbd.js"></script> -->
 
+<h5>
 <a name="fraction">
   <div id="fraction">
-<h5>  Fraction </h5>
+  Fraction 
   </div>
 </a>
+</h5>
 
 {% highlight c++ %}
 
@@ -175,11 +176,14 @@ template <class T = long long> struct Fraction {
 };
 
 {% endhighlight %}
+<h5>
 <a name="basic">
   <div id="basic">
-<h2>  Basic </h2>
+  Basic 
   </div>
 </a>
+</h5>
+
 {% highlight c++ %}
 
 
