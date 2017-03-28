@@ -7,7 +7,7 @@ categories:
 ---
 
 <h3> <a href="#geometry"> Geometry  </a> <br> </h3>
-<span style="display:inline-block; width: 40;"> </span> <a href="#fraction"> Fraction Class  </a> <br> 
+<!-- <span style="display:inline-block; width: 40;">  --></span> <a href="#fraction"> Fraction Class  </a> <br> 
 <span style="display:inline-block; width: 40;"> </span> <a href="#basic">  Basic Geometry  </a> <br> 
 <h3>  <a href="#graph"> Graph  </a> <br> </h3>
 
