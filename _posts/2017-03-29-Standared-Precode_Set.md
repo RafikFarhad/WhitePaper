@@ -6,6 +6,12 @@ comments: true
 categories:
 ---
 
+<a href="#geometry">Geometry</a>
+<a href="#graph">Graph</a>
+
+<a name="geometry">
+  <div id="geometry">
+
 <h1>  Geometry </h1>
 
 <!-- ## <script src="https://gist.github.com/RafikFarhad/16d420129d107663d6dc2c720b6aacbd.js"></script> -->
@@ -444,6 +450,13 @@ template <class T = double> struct Point {
 
 
 {% endhighlight %}
+
+  </div>
+</a>
+
+
+<a name="graph">
+  <div id="graph">
 
 
 <h1>  Graph </h1>
@@ -1355,3 +1368,6 @@ template <class T> struct PushRelabel {
 };
 
 {% endhighlight %}
+
+  </div>
+</a>
