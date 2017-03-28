@@ -14,12 +14,13 @@ categories:
 
 <hr>
 <hr>
-
+<h2> 
 <a name="geometry">
   <div id="geometry">
-<h2>  Geometry </h2>
+ Geometry 
   </div>
 </a>
+</h2>
 
 <h5>
 <a name="fraction">
@@ -477,13 +478,13 @@ template <class T = double> struct Point {
 {% endhighlight %}
 
 
-
+<h2> 
 <a name="graph">
   <div id="graph">
-  <h1>  Graph </h1>
+   Graph 
   </div>
 </a>
-
+</h2>
 
 
 
