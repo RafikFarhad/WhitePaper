@@ -1,13 +1,17 @@
 ---
 layout: post
-title: "Standared-Precode_Set (Geometry) + (Graph)"
+title: "Standared-Precode_Set (Corei13)"
 date: 2017-03-29 12:56:00 +0600
 comments: true
 categories:
 ---
 
-<a href="#geometry">Geometry</a> <br>
-<a href="#graph">Graph</a> <br>
+<a href="#geometry"> <h3> Geometry </h3> </a> <br>
+
+<a href="#fraction"> <h2> Fraction Class </h2> </a> <br>
+<a href="#basic"> <h2> Basic Geometry </h2> </a> <br>
+
+<a href="#graph"> <h3> Graph </h3> </a> <br>
 
 <a name="geometry">
   <div id="geometry">
