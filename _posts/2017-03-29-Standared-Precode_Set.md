@@ -23,6 +23,12 @@ categories:
 </a>
 <!-- ## <script src="https://gist.github.com/RafikFarhad/16d420129d107663d6dc2c720b6aacbd.js"></script> -->
 
+<a name="fraction">
+  <div id="fraction">
+<h5>  Fraction </h5>
+  </div>
+</a>
+
 {% highlight c++ %}
 
 /*
