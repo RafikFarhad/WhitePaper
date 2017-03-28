@@ -1,9 +1,14 @@
 name: Rafik Farhad
 description: >
-    Mystery is the word that suits me.
+    Department of Computer Science & Engineering <br> 
+    Shahjalal University of Science & Technology <br> 
+    Sylhet, Bangladesh. <br> 
 about: >
-    about
-
+    Rafik Farhad <br> 
+    rafikfarhad@gmail.com <br> 
+    Department of Computer Science & Engineering <br>
+    Shahjalal University of Science & Technology <br> 
+    Sylhet, Bangladesh. <br> 
 url: ""
 baseurl: "/" 
 markdown: kramdown
