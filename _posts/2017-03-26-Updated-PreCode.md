@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Get Readonly Mode In Django"
+title: "Updated PreCode"
 description: "Guide to setup readonly mode for some users in django admin"
 category: articles
 tags: [python, django, django-admin]
@@ -23,7 +23,7 @@ used to set permissions).
 Django has a cool way of adding the permissions in the meta class. Let's say we
 have a model class named Cars.
 
-{% highlight python %}
+{% highlight c++ %}
 class Cars(model.Model):
   name = models.Charfield()
   year = models.DateField()
@@ -55,7 +55,7 @@ I was earlier using:
 
 
 
-{% highlight python %}
+{% highlight cpp %}
 from model import Cars
 
 
