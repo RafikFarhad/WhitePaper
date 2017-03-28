@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Standared-Precode_Set (Corei13)"
+title: "Standared-Precode-Set (Corei13)"
 date: 2017-03-29 12:56:00 +0600
 comments: true
 categories:
@@ -14,7 +14,8 @@ categories:
 <h3>  <a href="#graph"> Graph  </a> <br> </h3>
 
 
-
+<hr>
+<hr>
 
 <a name="geometry">
   <div id="geometry">
