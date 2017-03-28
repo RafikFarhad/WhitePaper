@@ -7,8 +7,8 @@ categories:
 ---
 
 <h3> <a href="#geometry"> Geometry  </a> <br> </h3>
-<!-- <span style="display:inline-block; width: 40;">  --></span> <a href="#fraction"> Fraction Class  </a> <br> 
-<span style="display:inline-block; width: 40;"> </span> <a href="#basic">  Basic Geometry  </a> <br> 
+<a href="#fraction"> Fraction Class  </a> <br> 
+<a href="#basic">  Basic Geometry  </a> <br> 
 <h3>  <a href="#graph"> Graph  </a> <br> </h3>
 
 
@@ -477,6 +477,9 @@ template <class T = double> struct Point {
 
 {% endhighlight %}
 
+<hr>
+<hr>
+
 
 <h2> 
 <a name="graph">
@@ -487,6 +490,13 @@ template <class T = double> struct Point {
 </h2>
 
 
+<h5>
+<a name="sec1">
+  <div id="sec1">
+  Topological sort in directed acyclic graphs 
+  </div>
+</a>
+</h5>
 
 
 {% highlight c++ %}
@@ -542,6 +552,14 @@ struct TopologicalSort {
     }
 };
 {% endhighlight %}
+<h5>
+<a name="sec2">
+  <div id="sec2">
+  Tarjan's strongly connected components
+  </div>
+</a>
+</h5>
+
 
 {% highlight c++ %}
 
@@ -648,6 +666,15 @@ struct StronglyConnectedComponents {
 };
 {% endhighlight %}
 
+<h5>
+<a name="sec3">
+  <div id="sec3">
+  MST
+  </div>
+</a>
+</h5>
+
+
 {% highlight c++ %}
 
 
@@ -700,6 +727,13 @@ template <class T> struct Kruskal {
 };
 {% endhighlight %}
 
+<h5>
+<a name="sec4">
+  <div id="sec4">
+  Dijkstra
+  </div>
+</a>
+</h5>
 {% highlight c++ %}
 
 
@@ -764,6 +798,13 @@ template <class T> struct Dijkstra {
 
 {% endhighlight %}
 
+<h5>
+<a name="sec5">
+  <div id="sec5">
+  Articulation point, bridge, components
+  </div>
+</a>
+</h5>
 {% highlight c++ %}
 
 
@@ -870,6 +911,13 @@ struct BiconnectedComponents {
 
 {% endhighlight %}
 
+<h5>
+<a name="sec6">
+  <div id="sec6">
+  BPM by Hopcraft
+  </div>
+</a>
+</h5>
 {% highlight c++ %}
 
 
@@ -966,6 +1014,13 @@ struct HopcroftKarp {
     }
 {% endhighlight %}
 
+<h5>
+<a name="sec7">
+  <div id="sec7">
+  Minimum Vertex Cover
+  </div>
+</a>
+</h5>
 {% highlight c++ %}
 
     /*
@@ -1010,6 +1065,13 @@ struct HopcroftKarp {
 };
 {% endhighlight %}
 
+<h5>
+<a name="sec8">
+  <div id="sec8">
+  Gale–Shapley stable matching algorithm
+  </div>
+</a>
+</h5>
 {% highlight c++ %}
 
 
@@ -1064,6 +1126,13 @@ void StableMatching (const int n, const vector <vector <int>>& maleRank, const v
 
 {% endhighlight %}
 
+<h5>
+<a name="sec9">
+  <div id="sec9">
+  Euler tour generation
+  </div>
+</a>
+</h5>
 {% highlight c++ %}
 
 /*
@@ -1133,6 +1202,13 @@ struct EulerTour {
 };
 {% endhighlight %}
 
+<h5>
+<a name="sec10">
+  <div id="sec10">
+  Highest-label push-relabel maximum flow
+  </div>
+</a>
+</h5>
 {% highlight c++ %}
 
 /*
@@ -1371,6 +1447,13 @@ template <class T> struct PushRelabel {
     }
 {% endhighlight %}
 
+<h5>
+<a name="sec11">
+  <div id="sec11">
+  Minimal cut with source and sink
+  </div>
+</a>
+</h5>
 {% highlight c++ %}
 
     /*
