@@ -9,7 +9,7 @@ about: >
     Department of Computer Science & Engineering <br>
     Shahjalal University of Science & Technology <br> 
     Sylhet, Bangladesh. <br> 
-url: "rafikfarhad.github.io"
+url: "" #rafikfarhad.github.io"
 baseurl: "/" 
 markdown: kramdown
 highlighter: rouge
