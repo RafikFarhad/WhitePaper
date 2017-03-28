@@ -6,8 +6,8 @@ comments: true
 categories:
 ---
 
-<a href="#geometry">Geometry</a>
-<a href="#graph">Graph</a>
+<a href="#geometry">Geometry</a> <br>
+<a href="#graph">Graph</a> <br>
 
 <a name="geometry">
   <div id="geometry">
@@ -161,6 +161,11 @@ template <class T = long long> struct Fraction {
         return os;
     }
 };
+
+{% endhighlight %}
+
+{% highlight c++ %}
+
 
 /*
     Common Geometry Routines
@@ -514,6 +519,9 @@ struct TopologicalSort {
         }
     }
 };
+{% endhighlight %}
+
+{% highlight c++ %}
 
 /*
     Implementation of Tarjan's strongly connected components algorithm.
@@ -616,6 +624,9 @@ struct StronglyConnectedComponents {
         }
     }
 };
+{% endhighlight %}
+
+{% highlight c++ %}
 
 
 /*
@@ -665,6 +676,9 @@ template <class T> struct Kruskal {
         return ret;
     }
 };
+{% endhighlight %}
+
+{% highlight c++ %}
 
 
 /*
@@ -725,6 +739,10 @@ template <class T> struct Dijkstra {
         } while (!q.empty());
     }
 };
+
+{% endhighlight %}
+
+{% highlight c++ %}
 
 
 /*
@@ -828,6 +846,10 @@ struct BiconnectedComponents {
     }
 };
 
+{% endhighlight %}
+
+{% highlight c++ %}
+
 
 /*
     Implementation of Hopcroft-Karp algorithm of finding maximum matching
@@ -920,6 +942,9 @@ struct HopcroftKarp {
         }
         return ret;
     }
+{% endhighlight %}
+
+{% highlight c++ %}
 
     /*
         Finds minimum vertex cover
@@ -961,6 +986,9 @@ struct HopcroftKarp {
         }
     }
 };
+{% endhighlight %}
+
+{% highlight c++ %}
 
 
 /*
@@ -1012,6 +1040,9 @@ void StableMatching (const int n, const vector <vector <int>>& maleRank, const v
     }
 }
 
+{% endhighlight %}
+
+{% highlight c++ %}
 
 /*
     Implementation of euler tour generation algorithm
@@ -1078,6 +1109,9 @@ struct EulerTour {
         }
     }
 };
+{% endhighlight %}
+
+{% highlight c++ %}
 
 /*
     Implementation of highest-label push-relabel maximum flow
@@ -1313,6 +1347,9 @@ template <class T> struct PushRelabel {
             }
         }
     }
+{% endhighlight %}
+
+{% highlight c++ %}
 
     /*
         Finds minimal cut with source and sink
