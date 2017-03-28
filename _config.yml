@@ -23,14 +23,14 @@ disqus_shortname:
 
 owner:
   name:           RafikFarhad
-  avatar:         ""
-  email:          ""
+  avatar:         "<blockquote class="imgur-embed-pub" lang="en" data-id="a/PRE2x"><a href="//imgur.com/PRE2x"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>"
+  email:          "rafikfarhad@gmail.com"
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  github:
+  twitter: twitter.com/rafikfarhad
+  github: github.com/RafikFarhad
   stackexchange:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  google_plus: https://plus.google.com/115023008660903227281
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
