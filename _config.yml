@@ -10,7 +10,7 @@ about: >
     Shahjalal University of Science & Technology <br> 
     Sylhet, Bangladesh. <br> 
 url: "" #rafikfarhad.github.io"
-baseurl: "/" 
+baseurl: "http://rafikfarhad.github.io/" 
 markdown: kramdown
 highlighter: rouge
 
